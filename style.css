@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+   margin-left: 35%;
+   text-decoration: underline;
+}
+.somme{
+    margin-left: 75%;
+    margin-top: 15px;
+    background-color: rgb(175, 155, 155);
+    height: 50px;
+font-size: large;
+
+}
+
+.cv{
+    padding: 10Px;
+width: 5%;
+     height: 5%;
+ opacity: 0.3; 
+ /* display:none */
+ /* filter: grayscale(100%); */
+} 
+
+ 
+ .heart{
+    padding: 10Px;
+    width: 5%;
+         height: 5%;
+ }
+
+
+/* .list{
+display:flex
+
+
+} */
+.product{
+display:flex;
+justify-content: space-between;
+    background-color: bisque;
+    margin: 10%;
+}
+.img{
+
+padding: 10Px;
+    width: 20%;
+}
+
+.product button{
+
+padding: 10Px;
+    width: 5%;
+    height: 20%;
+    margin-top: 50px;
+}
+.total{
+
+    padding: 10Px;
+        width: 10%;
+        height: 30%;
+        margin-top: 50px;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .product h4{
+
+        padding: 10Px;
+            width: 10%;
+            height: 30%;
+            margin-top: 50px;
+            margin-right: 5%;
+        }
+        .product p{
+
+            padding: 10Px;
+                width: 10%;
+                height: 30%;
+                margin-top: 50px;
+                margin-right: 5%;
+            }
+
+            .quantité{
+
+                padding: 10Px;
+                    width: 10%;
+                    height: 30%;
+                    margin-top: 50px;
+                }
+
+                .trash{
+
+                    padding: 10Px;
+                        width: 5%;
+                        height: 5%;
+                    }
+                    
